@@ -71,14 +71,14 @@ You will need a session ID to run the SUBZERO-MD. Click the button below to obta
 
 > **1️⃣Pair Code (Session ID)**
 
-<a href='https://tinyurl.com/subzero-md-session-id' target="_blank">
+<a href='https://sheikh-ali-pair-2-7c08b07b7cab.herokuapp.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
 > **2️⃣Pair Code (Session ID)**
 
-<a href='https://subzero-md-pair2.onrender.com' target="_blank">
+<a href='https://sheikh-ali-pair-847456709a7a.herokuapp.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
